@@ -1,35 +1,49 @@
-Privacy Policy for [Bot Name]
+# Privacy Policy for [Your Discord Bot Name]
 
-This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Developer Name]. By using [Bot Name], you agree to the terms of this Privacy Policy.
+_Last updated: 2025-06-23_
 
-Information We Collect
+## Introduction
 
-We collect information that you provide to us through your use of the bot, such as your Discord user ID and username, server and channel information, and message content. We may also collect usage data, such as the frequency and duration of your use of the bot.
+[Your Discord Bot Name] (“the Bot”) is a Discord application operated by [Your Name or Organization] (“we”, “us”, or “our”). This Privacy Policy explains how we collect, use, and protect your information when you use the Bot.
 
-How We Use Your Information
+## Data We Collect
 
-We use your information to operate and improve [Bot Name], including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal obligations.
+The Bot may collect the following data:
+- User IDs and server IDs for the purpose of providing bot functionality.
+- Message content only when necessary for specific commands (not stored).
+- Command usage data for analytics and improvements.
 
-Sharing Your Information
+## How We Use Data
 
-We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal process or a request from a law enforcement agency or regulatory authority.
+- To operate and improve the Bot’s features.
+- To troubleshoot and respond to user queries.
+- To comply with Discord’s Terms of Service and legal obligations.
 
-Data Retention
+## Data Sharing
 
-We retain your information for as long as necessary to provide [Bot Name]’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
+We do not share your data with third parties, except:
+- As required by law.
+- To comply with Discord’s policies.
+- If necessary to protect our rights or the rights of others.
 
-Data Security
+## Data Storage and Security
 
-We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
+- We take reasonable measures to protect your data.
+- No sensitive personal information is stored.
+- Data is retained only as long as necessary for bot functionality.
 
-Changes to this Policy
+## User Rights
 
-We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [Bot Name] after we make changes to this policy indicates your acceptance of the revised policy.
+You may contact us at [your email] to request data deletion or inquire further about your data.
 
-Contact Us
+## Changes to This Policy
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Developer Email].
+We may update this Privacy Policy. Changes will be posted here with the effective date.
 
-Effective Date
+## Contact
 
-This Privacy Policy is effective as of [Effective Date].
+If you have questions, contact us at [email].
+
+---
+
+_This privacy policy applies only to !,Dr-D and not to any third-party applications or services._
